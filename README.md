@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=PallaviRaparthi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=PallaviRaparthi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PallaviRaparthi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+username=PallaviRaparthi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PallaviRaparthi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
